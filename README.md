@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi👋 I'm Yuu.
+You can also call my name as 桜庭夜 or Yuuikic
 
 <!--
 **Yuuikic/Yuuikic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
